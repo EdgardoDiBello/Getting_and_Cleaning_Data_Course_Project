@@ -1,4 +1,4 @@
-# Peer-graded Assignment: Getting and Cleaning Data Course Project
+# Assignment: Getting and Cleaning Data Course Project
 This is a submission by Edgardo Di Bello for the Getting and Cleaning Data Course for Coursera.
 
 ## Dataset
